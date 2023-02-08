@@ -1,8 +1,8 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "https://raw.githubusercontent.com/nf-core/demultiplex/master/nextflow_schema.json",
-    "title": "nf-core/demultiplex pipeline parameters",
-    "description": "Demultiplexing pipeline for Illumina sequencing data",
+    "$id": "https://raw.githubusercontent.com/chrispyatt/nextflow/main/nextflow_schema.json",
+    "title": "CNV_prep pipeline parameters",
+    "description": "Doing prep for CNV calling",
     "type": "object",
     "definitions": {
         "workflow_options": {
